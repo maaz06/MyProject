@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Maaz\\source\\repos\\UniversityOfAppliedSciencesFrankfurt\\LearningApi\\My Project\\RingProjectionAlgorithm\\RingProjectionAlgorithm.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Maaz\\source\\repos\\UniversityOfAppliedSciencesFrankfurt\\LearningApi\\My Project\\RingProjectionAlgorithm\\RingProjectionAlgorithm.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Maaz\\source\\repos\\UniversityOfAppliedSciencesFrankfurt\\LearningApi\\My Project\\RingProjectionAlgorithm\\RingProjectionAlgorithm.csproj",
+        "projectName": "RingProjectionAlgorithm",
+        "projectPath": "C:\\Users\\Maaz\\source\\repos\\UniversityOfAppliedSciencesFrankfurt\\LearningApi\\My Project\\RingProjectionAlgorithm\\RingProjectionAlgorithm.csproj",
+        "packagesPath": "C:\\Users\\Maaz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Maaz\\source\\repos\\UniversityOfAppliedSciencesFrankfurt\\LearningApi\\My Project\\RingProjectionAlgorithm\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Maaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Maaz\\source\\repos\\se-cloud-2019-2020\\MyWork\\E10\\My Nuget packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Maaz\\source\\repos\\UniversityOfAppliedSciencesFrankfurt\\ImageBinarizer\\ImageBinarizer.csproj": {
+                "projectPath": "C:\\Users\\Maaz\\source\\repos\\UniversityOfAppliedSciencesFrankfurt\\ImageBinarizer\\ImageBinarizer.csproj"
+              },
+              "C:\\Users\\Maaz\\source\\repos\\UniversityOfAppliedSciencesFrankfurt\\LearningApi\\LearningApi\\LearningApi.csproj": {
+                "projectPath": "C:\\Users\\Maaz\\source\\repos\\UniversityOfAppliedSciencesFrankfurt\\LearningApi\\LearningApi\\LearningApi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
