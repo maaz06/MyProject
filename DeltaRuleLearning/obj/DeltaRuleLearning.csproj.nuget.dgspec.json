@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maaz\\source\\repos\\UniversityOfAppliedSciencesFrankfurt\\LearningApi\\My Project\\DeltaRuleLearning\\DeltaRuleLearning.csproj": {}
+    "C:\\Users\\Maaz\\source\\repos\\MyProjects\\DeltaRuleLearning\\DeltaRuleLearning.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maaz\\source\\repos\\UniversityOfAppliedSciencesFrankfurt\\LearningApi\\My Project\\DeltaRuleLearning\\DeltaRuleLearning.csproj": {
+    "C:\\Users\\Maaz\\source\\repos\\MyProjects\\DeltaRuleLearning\\DeltaRuleLearning.csproj": {
       "version": "1.2.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maaz\\source\\repos\\UniversityOfAppliedSciencesFrankfurt\\LearningApi\\My Project\\DeltaRuleLearning\\DeltaRuleLearning.csproj",
+        "projectUniqueName": "C:\\Users\\Maaz\\source\\repos\\MyProjects\\DeltaRuleLearning\\DeltaRuleLearning.csproj",
         "projectName": "DeltaRuleLearning",
-        "projectPath": "C:\\Users\\Maaz\\source\\repos\\UniversityOfAppliedSciencesFrankfurt\\LearningApi\\My Project\\DeltaRuleLearning\\DeltaRuleLearning.csproj",
+        "projectPath": "C:\\Users\\Maaz\\source\\repos\\MyProjects\\DeltaRuleLearning\\DeltaRuleLearning.csproj",
         "packagesPath": "C:\\Users\\Maaz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maaz\\source\\repos\\UniversityOfAppliedSciencesFrankfurt\\LearningApi\\My Project\\DeltaRuleLearning\\obj\\",
+        "outputPath": "C:\\Users\\Maaz\\source\\repos\\MyProjects\\DeltaRuleLearning\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Maaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Maaz\\source\\repos\\UniversityOfAppliedSciencesFrankfurt\\LearningApi\\LearningApi\\LearningApi.csproj": {
-                "projectPath": "C:\\Users\\Maaz\\source\\repos\\UniversityOfAppliedSciencesFrankfurt\\LearningApi\\LearningApi\\LearningApi.csproj"
+              "C:\\Users\\Maaz\\source\\repos\\LearningApi\\LearningApi.csproj": {
+                "projectPath": "C:\\Users\\Maaz\\source\\repos\\LearningApi\\LearningApi.csproj"
               },
-              "C:\\Users\\Maaz\\source\\repos\\UniversityOfAppliedSciencesFrankfurt\\LearningApi\\My Project\\NeuralNetworks\\NeuralNetworks.Core\\NeuralNetworks.Core.csproj": {
-                "projectPath": "C:\\Users\\Maaz\\source\\repos\\UniversityOfAppliedSciencesFrankfurt\\LearningApi\\My Project\\NeuralNetworks\\NeuralNetworks.Core\\NeuralNetworks.Core.csproj"
+              "C:\\Users\\Maaz\\source\\repos\\MyProjects\\NeuralNetworks\\NeuralNetworks.Core\\NeuralNetworks.Core.csproj": {
+                "projectPath": "C:\\Users\\Maaz\\source\\repos\\MyProjects\\NeuralNetworks\\NeuralNetworks.Core\\NeuralNetworks.Core.csproj"
               }
             }
           }

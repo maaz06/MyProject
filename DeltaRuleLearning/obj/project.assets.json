@@ -176,8 +176,8 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "C:\\Users\\Maaz\\source\\repos\\UniversityOfAppliedSciencesFrankfurt\\LearningApi\\LearningApi\\LearningApi.csproj",
-      "C:\\Users\\Maaz\\source\\repos\\UniversityOfAppliedSciencesFrankfurt\\LearningApi\\My Project\\NeuralNetworks\\NeuralNetworks.Core\\NeuralNetworks.Core.csproj",
+      "C:\\Users\\Maaz\\source\\repos\\LearningApi\\LearningApi.csproj",
+      "C:\\Users\\Maaz\\source\\repos\\MyProjects\\NeuralNetworks\\NeuralNetworks.Core\\NeuralNetworks.Core.csproj",
       "NETStandard.Library >= 2.0.3"
     ]
   },
@@ -187,11 +187,11 @@
   "project": {
     "version": "1.2.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Maaz\\source\\repos\\UniversityOfAppliedSciencesFrankfurt\\LearningApi\\My Project\\DeltaRuleLearning\\DeltaRuleLearning.csproj",
+      "projectUniqueName": "C:\\Users\\Maaz\\source\\repos\\MyProjects\\DeltaRuleLearning\\DeltaRuleLearning.csproj",
       "projectName": "DeltaRuleLearning",
-      "projectPath": "C:\\Users\\Maaz\\source\\repos\\UniversityOfAppliedSciencesFrankfurt\\LearningApi\\My Project\\DeltaRuleLearning\\DeltaRuleLearning.csproj",
+      "projectPath": "C:\\Users\\Maaz\\source\\repos\\MyProjects\\DeltaRuleLearning\\DeltaRuleLearning.csproj",
       "packagesPath": "C:\\Users\\Maaz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Maaz\\source\\repos\\UniversityOfAppliedSciencesFrankfurt\\LearningApi\\My Project\\DeltaRuleLearning\\obj\\",
+      "outputPath": "C:\\Users\\Maaz\\source\\repos\\MyProjects\\DeltaRuleLearning\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Maaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -208,11 +208,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Maaz\\source\\repos\\UniversityOfAppliedSciencesFrankfurt\\LearningApi\\LearningApi\\LearningApi.csproj": {
-              "projectPath": "C:\\Users\\Maaz\\source\\repos\\UniversityOfAppliedSciencesFrankfurt\\LearningApi\\LearningApi\\LearningApi.csproj"
+            "C:\\Users\\Maaz\\source\\repos\\LearningApi\\LearningApi.csproj": {
+              "projectPath": "C:\\Users\\Maaz\\source\\repos\\LearningApi\\LearningApi.csproj"
             },
-            "C:\\Users\\Maaz\\source\\repos\\UniversityOfAppliedSciencesFrankfurt\\LearningApi\\My Project\\NeuralNetworks\\NeuralNetworks.Core\\NeuralNetworks.Core.csproj": {
-              "projectPath": "C:\\Users\\Maaz\\source\\repos\\UniversityOfAppliedSciencesFrankfurt\\LearningApi\\My Project\\NeuralNetworks\\NeuralNetworks.Core\\NeuralNetworks.Core.csproj"
+            "C:\\Users\\Maaz\\source\\repos\\MyProjects\\NeuralNetworks\\NeuralNetworks.Core\\NeuralNetworks.Core.csproj": {
+              "projectPath": "C:\\Users\\Maaz\\source\\repos\\MyProjects\\NeuralNetworks\\NeuralNetworks.Core\\NeuralNetworks.Core.csproj"
             }
           }
         }
@@ -251,8 +251,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\Maaz\\source\\repos\\UniversityOfAppliedSciencesFrankfurt\\LearningApi\\LearningApi\\LearningApi.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\Maaz\\source\\repos\\UniversityOfAppliedSciencesFrankfurt\\LearningApi\\LearningApi\\LearningApi.csproj",
+      "message": "Unable to find project 'C:\\Users\\Maaz\\source\\repos\\LearningApi\\LearningApi.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Maaz\\source\\repos\\LearningApi\\LearningApi.csproj",
       "targetGraphs": [
         ".NETStandard,Version=v2.0"
       ]
@@ -260,8 +260,8 @@
     {
       "code": "NU1105",
       "level": "Error",
-      "message": "Unable to find project information for 'C:\\Users\\Maaz\\source\\repos\\UniversityOfAppliedSciencesFrankfurt\\LearningApi\\My Project\\NeuralNetworks\\NeuralNetworks.Core\\NeuralNetworks.Core.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so please run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\Users\\Maaz\\source\\repos\\UniversityOfAppliedSciencesFrankfurt\\LearningApi\\My Project\\NeuralNetworks\\NeuralNetworks.Core\\NeuralNetworks.Core.csproj",
+      "message": "Unable to find project information for 'C:\\Users\\Maaz\\source\\repos\\MyProjects\\NeuralNetworks\\NeuralNetworks.Core\\NeuralNetworks.Core.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so please run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\Users\\Maaz\\source\\repos\\MyProjects\\NeuralNetworks\\NeuralNetworks.Core\\NeuralNetworks.Core.csproj",
       "targetGraphs": [
         ".NETStandard,Version=v2.0"
       ]
