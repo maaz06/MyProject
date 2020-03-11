@@ -12,7 +12,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\LearningApi\LearningApi.csproj" />
+    <ProjectReference Include="C:\Users\Maaz\source\repos\UniversityOfAppliedSciencesFrankfurt\LearningApi\LearningApi\src\LearningApi\LearningApi.csproj" />
   </ItemGroup>
 
 </Project>
